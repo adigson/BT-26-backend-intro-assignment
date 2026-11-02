@@ -1,0 +1,15 @@
+{
+  "name": "bt-26-backend-intro-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An interactive JavaScript introduction assignment for the BeTechified backend track.",
+  "main": "intro.js",
+  "scripts": {
+    "start": "node intro.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
